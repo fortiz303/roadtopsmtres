@@ -1,0 +1,12 @@
+Q(v329,11:35): What is the agenda when conducting a Sprint Review?
+
+A: First, we review the Sprint Goal, next we Demonstrate the increment done, next we Request feedback, then we Discuss the work not done, then we identify risks and impediments, and lastly we have a sneak peek on the next Sprint.
+
+Q(329,11:45): How can we remember this agenda for the Scrum Review (acronyms)?
+A: RDRDIA
+
+Q(329,11:50): What is the main purpose of the Sprint Review?
+
+A: The main purpose of the Sprint Review is to get feedback from the stakeholders. This feedback will be to maximize the product value. Subsequently, this feedback goes into our product backlog where we decompose those items into user stories that we can finish in Sprints. The Sprint Review is a feedback loop, and provides us an opportunity to inspect and adapt.
+
+

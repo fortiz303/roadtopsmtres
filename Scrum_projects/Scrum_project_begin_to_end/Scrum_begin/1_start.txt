@@ -1,0 +1,3 @@
+When building a product from beginning to end, conception to completion, we start off by assembling the product owner, the engineering lead, and the ux lead. Respectively, they will be in charge of the value, feasibility, and the usefulness.
+
+

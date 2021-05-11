@@ -1,0 +1,5 @@
+1) Frame the journey - A user story mapping is broken into 5 steps. Step 1 is to frame the idea from a business perspective.
+
+2) Create The Backbone - Imagine the customer's experience and map out their steps they take while completing their journey through the product.
+
+3) Build the Body - Now, we build the high level details of the product

@@ -1,0 +1,44 @@
+March 25
+
+Goal: 
+
+By the end of the working day, I will finish the first test of Scrum, and score higher.
+
+Tasks: 
+
+Review and answer wrong answers
+Answer correct answers from screenshots
+
+
+Q(V): What items in Scrum contribute the most to the value "focus" in Scrum?
+
+Sprint Goal,
+Product Goal,
+
+and Timeboxing the Scrum Events
+
+These provide the most to the value of "focus" in Scrum. We focus on a few things at a time, things that we have selected from the Sprint to work on. This provides focus to the team as we work on the product.
+
+Q(V): Which of the following are wrong about Scrum?
+
+Scrum eliminates complexity
+You can tailor Scrum to your choosing
+Scrum is like traditional processes but with self-management to replace PM's
+
+Q(V): An org is building 5 new products/ How would you distrbute the PO's?
+
+A product owner for each product, with one product owner being responsible for the other 4. Having different product backlogs. Or one product owner who delegates tasks but retains responsibility. 
+
+Q(V): Transitioning from traditional teams to Scrum, what could be the problem?
+
+A: When transitioning to Scrum, the team is very likely to face a cuple problems. First of all, the team who has been used to working in siload teams, where there is a back-end dev team and a front-end team is likely to faec issues such as their work output decreasing their first few sprints. Another issue they could face, is conflict between team members as team members like to own their code in their own department. Scrum addresses these two problems as, yes, output could decrease BUT the value being created could be much higher as redundant functionalities will be eliminated when we plan for the sprint and address priority items that need to be worked on. Also, healthy conflict with the team members is encouraged in Scrum as it builds stronger teams AND lastly, one of the core values of Scrum is openness, so developers who were used to owning their code now have to work with the mindset of the code being the team's and not theirs. This is an example of courage, and openness, both values in the Scrum frammework.
+
+Q(V): What is the accountability of the Scrum Master during SR's?
+
+A: The SM has the responsibility of being the proactive engager, and the change agent during the SRt. As a SM, I am identifying processes, techniques into what went wel and what didn't go so well. As a servant leader, I am listening to what the team is saying. Being in a new team, I'd facilitate the discussion. With an experienced team, I'd observe and identify these processes and techniques.
+
+Q: What does a trend line in a burn down chart represent?
+
+A: The estimated time it will take to complete items in the burn down chart if nothing changes in the product backlog or the Scrum Team.
+
+Q: What can be said when 

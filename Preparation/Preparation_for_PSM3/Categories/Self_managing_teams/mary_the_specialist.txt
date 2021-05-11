@@ -1,0 +1,5 @@
+Question: Mary,the specialist, is needed across different teams, as she is the only one with the expertise and permissions for the databases. Wdyd?
+
+Answer: As a SM, I encourge the PO to reorder the Product Backlog so that Mary could commit to a team full time in a Sprint full time while other teams work on items that do not require Mary immediately.
+
+It could also be an opportunity for the Developers from the Dev Teams with an interest in Mary's expertise that could volunteer to take on this work in their respective teams, so they are exercising self-management and also improving their skills, becoming even more cross functional. 

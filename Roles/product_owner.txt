@@ -1,0 +1,5 @@
+Q(v326,3:00)What is the role of the product owner in a Scrum project?
+
+A: The role of the product owner is to engage the stakeholders and to explain the product, the product context, and product goals to the development team.
+
+

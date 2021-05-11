@@ -1,0 +1,24 @@
+Q(326,3:14): What is the definition of done?
+
+A: In a nutshell, the DoD means that we have a potentially shippable increment to users as well as having all the work completed as defined in the definition of done.
+
+Q(329,5:16): Why do we have tests in the Definition of Done?
+
+A: We have tests to increase the transparency of the increments and to create increments that are closer to being potentially shippable.
+
+Q: What is the Acceptance Criteria?
+
+A:
+
+Q: Name some examples of Acceptance Criteria?
+
+A:  
+
+Q: Name examples of definition of done?
+
+A: Code is written, Code is documented, Code review has been completed, Build has been made and deployed on a testing environment, Tests have been passed
+
+Q: Dfference between DoD and Acceptance Criteria?
+
+A: DoD is common for that user story and Acceptance Criteria is acceptable for just that user story.
+

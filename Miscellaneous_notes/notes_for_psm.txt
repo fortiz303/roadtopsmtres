@@ -1,0 +1,37 @@
+Q(326(10:32)): What is the sprint review helpful for?
+
+A: The Sprint Review is to showcase to stakeholders what we have done for that increment and what we have not done. We review problems and address how they were solved. We decide what to do next. We employ techniques such as asking what should we start doing, what should we stop doing, and what should we continue doing?
+
+Q: What values does sprint have?
+
+A: Focus, Respect, Openness, Courage, Commitment
+
+Q(v3.26(9.19)): How do you know what is "Definition of Ready?" 
+
+A: Immediately actionable. We have an estimate of when it will get done.
+Independent, Valuable, Estimable, Short, Testable
+
+Q: When and how do we refine the product backlog?
+
+A: We refine the PB continuously. According to the SG, this is not to exceed 10% capability of the Scrum Team.
+
+Q(v3.26(9:14)): What is the purpose of product backlog refinement?
+
+A: The purpose of backlog refinement is to have issues in future SPRINTS that the development can tackle. (R)
+
+Q(v3.26(12:59)): Is there a preferred time when the PB should be refined?
+
+A: There is no set time to refine the product backlog. The PB can be refined by any of the Scrum Team members. 
+
+Q: What are the roles of a SM?
+
+A: Change agent
+Servant leader
+Influencer
+Facilitator
+Proactive engager
+Knowledge sharer
+Commitment guardian   
+Obstacle remover
+
+

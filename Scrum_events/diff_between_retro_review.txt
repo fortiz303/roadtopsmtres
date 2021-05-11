@@ -1,0 +1,12 @@
+Q(v329,10:32): What is the difference between sprint retrospective and sprint review?
+
+A: The biggest difference is that S.Review focuses on what we are building and S.Retro is focusd on how we are building it. The Review focuses on what and the Retro is on how. We demonstrate what the new increment is and what it does in the S.Review, and how to improve the tools and techniques in S.Retro. 
+
+Q: How can we gamify the S.Review?
+
+A:
+
+Q: How can we gamify the S.Retro?
+
+A:
+

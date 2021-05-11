@@ -1,0 +1,33 @@
+Scrum Master Role in Scrum Events
+
+What is the role of the SM in the Srt?
+
+The Scrum Master is a team member during SRT. He/she can facilitate the SRT if the team asks. Questions that the SM can ask is, what do we start doing, what do we continue doing, and what do we stop doing?
+
+Yeah, but what is his role in the Srt?
+
+Servant/leader. Identifying processes that is deficient to the team, or beneficial to the team.
+
+What can be done in subsequent Sprintt Retrospectives?
+The next sprint retrospectives are often begun by bring up past SRT and reviewing the list of things selected during the last SRT.
+
+What roles does the SM have?
+
+Facilitator
+Impediment Remover
+Commitment Guardian
+Influencer
+Proactive Engager
+Knowledge Shaerr
+Change Agent
+Servant Leader
+
+What is an acronym for these roles?
+
+Change Is Constant, Serve People Over Facilities, Korporations
+Influence change with knowledge, committing by serving other people first 
+
+Q:(v4/12,6:00) How does the SM facilitate productivity from the developers?
+A: The SM removes impediments and helps the ST focus on producing increments that meet the DOD. 
+
+##
