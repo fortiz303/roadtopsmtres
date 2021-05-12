@@ -1,0 +1,19 @@
+What aspects of Scrum helps a ST self manage? How does each aspect support self managing?
+
+A: The following helps a ST self-manage: Cross functional teams, artifact commitments (PG,SG,DoD), Timeboxes, Artifact transparency.
+
+Cross-functional teams reduces the need for depending on external people for value creation. This enables the team to make decisions locally within the team.
+
+Artifact commitments (product goal, sprint goal, Definition of Done) creates a focus that helps the Scrum team to work together.
+
+Timeboxes encourages team members to focus on the same problem at the same time to create the best possible result in the time allocated, given the current context.
+
+Artifact transparency provides the team the ability to effectively insect and adapt without the need to depend on external people.
+
+The Developers creating their own sprint backlog and deciding how the work will be performed.
+
+The Developers deciding how to progress towards the sprint goal at the daily scrum. Embodying the Scrum values build trust between team members creating a foundation for self-management.
+
+My answer: The cross-functionality of the team, Scrum Events. Scrum Values, timeboxing, and the Artifacts help the team self manage.
+
+First off, embodying the SV helps build trust between the team members creating foundation for self-management. (Add the rest in your own words) 

@@ -1,0 +1,5 @@
+Q: Doing the right thing. How does Scrum encourage that, in product development?
+
+A: In Scrum, we build quality products that are valuable to our org, and end users. One the pillars of Scrum is transparency, and we are transparent about the work that we do, challenges, and uncertainties that we face. We continously inspect and adapt to improve ourselves and our process and our tools. We hold ourselves and others accountable. In this we are guided by the Scrum Values which are Focus, Respect, Openness, Courage, Commitment.
+
+My answer: Scrum encourages "going the right thing" and it is embodied in it's value of Focus, Respect, Openness, Courage and Commitment. Scrum also encourages continuous inspection and adaption and encourages to be transparent about our work, impediments, and the challenges we face (although not exclusive). By doing this we learn and explore the values of Scrum of Focus, Respect, Openness, Courage, and Commitment. As the Scrum Guide says, "When these values are embodied by the Scrum Team and the people they work with, the empirical Scrum pillars of transparency, inspection, and adaptation come to life building trust." 

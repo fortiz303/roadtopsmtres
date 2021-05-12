@@ -1,0 +1,4 @@
+Q: Members of a new Scrum team are unsure of whether or not to include system testing within sprints. What are the advantages of including test activities every sprint ? What does the scrum guide say about this?
+
+My answer: Scrum Teams are cross-functional, and they should have all the skills necessary to turn Sprint Backlog Items into potentially releasable increments at the end of the Sprint. THe Scrum Guide says that "The Scrum Team is responsible for all product-related activities from stakeholder collaboration,
+verification, maintenance, operation, experimentation, research and development, and anything else that might be required." The advantage will be that implementing system testing will allow the team to be more effective in performing the above activities.

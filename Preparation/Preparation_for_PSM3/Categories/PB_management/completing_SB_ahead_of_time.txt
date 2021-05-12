@@ -1,0 +1,5 @@
+Q: The PO wants to complete the SB as part of PB management for the upcoming Sprint. How should you, the SM, handle this?
+
+A: The SB is undertaken by the development team as they are responsible for creating the plan for the Sprint, which is the SB. The PO is not doing Scrum correctly by creating the SB for the upcoming Sprint. I would coach the PO into understanding that the developers
+
+A(v2): The SB is a plan by and for the Developers. I would coach the PO into understanding that by completing the SB during PB management, that this is not Scrum and that by doing this, transparency is reduced. 

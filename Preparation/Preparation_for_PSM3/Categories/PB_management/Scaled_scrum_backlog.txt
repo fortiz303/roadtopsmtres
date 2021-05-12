@@ -1,0 +1,4 @@
+Q: In scaled Scrum, teams work from the same product backlog. What are some considerations to take in mind?
+A: We have to consider the dependencies between items and teams. We also have to consider the ability for the teams to deliver the items with minimal to no external help.
+
+
