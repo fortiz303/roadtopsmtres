@@ -1,0 +1,3 @@
+Q: A project will use 100 people with diff skill sets. As a SM, how do you facilitate the forming of the teams?
+
+A: I'd have the PO share product vision, product goals, its market, product's users, and stakeholders.  

@@ -1,1 +1,3 @@
-Q: Team members dont see a value in defining the SG. What's your take on this?:
+Q: Team members dont see a value in defining the SG. What's your take on this?
+ 
+My answer: Without the SG, we can't communicate why the Sprint is valuable. If we don't have the Sprint Goal defined we can not properly inspect porgress during the Daily Scrum. Without the SG we are not doing Scrum.
