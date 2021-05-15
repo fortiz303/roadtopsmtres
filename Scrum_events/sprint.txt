@@ -1,3 +1,0 @@
-Q(v329,4:52) What happens to an item that is still in progress at the end of the Sprint?
-
-A: We do not include it in the increment and we throw it back onto the product backlog and reestimate the points.

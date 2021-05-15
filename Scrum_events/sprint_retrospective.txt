@@ -1,5 +1,0 @@
-Q(v326,2:49): What can be done at the Sprint Retrospective?
-
-A: We can discuss the definition of done. We can discuss how the team communicates with each other.
-
-

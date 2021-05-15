@@ -1,5 +1,0 @@
-Q(v326(10:22)): What can be said about non-functional requirements?
-
-A: 1)Every increment thereafter needs to meet that NFR. 2)Some of these non-functional requirements can be added to the DoD. 3)Can be added to the Product Backlog.
-
-
