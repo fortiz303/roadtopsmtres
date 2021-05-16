@@ -1,0 +1,3 @@
+Q: What would be an unethical example of doing Scrum?
+
+A: There are several unethical behaviors that members of a ST could do. One of them is releasing an increment that does not satisfy the DoD. Another is disregarding fellow developer's opinions during the Daily Scrum (Respect). Lastly but definitely not exclusively, a developer could hold on to a piece of information that is critical to the team's success as they want it for their own personal gain.

@@ -1,3 +1,6 @@
 Q: What does mechanical scrum look like?
 
-A: It means that the focus is not meant on having the mindset of iter
+A: Mechanical or zombie Scrum is not taking an iterative and incremental approach to solving complex problems, and instead focusing on going through Scrum through a matter-of-fact and routine approach. 
+
+
+Mech or zombie Scrum is when a team follows Scrum by going through the motions of Scrum but not knowing the reasoning behind it. Simply speaking, the team knows "what," and "how," but they don't know "why." It is a textbook form of Scrum that the team follows but there's no "beating heart" where it allows the team to truly take an iterative and incremental approach to building a product.

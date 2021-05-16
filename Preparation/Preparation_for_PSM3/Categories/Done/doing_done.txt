@@ -1,3 +1,3 @@
 Q: What does Done mean? What work should the devs do to the PB items that they're done and transparent to the PO?
 
-A: Revise questions
+A: Done is a mutually defined agreement by the Scrum Team that defines when work is complete according to the quality measures required by the team and customer's needs. Acceptance criteria should be added to tasks by the development team that meets the DoD. To make it transparent to the PO, the developers should explicitly mention this in the PBI. 
