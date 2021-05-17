@@ -1,0 +1,7 @@
+Q: Objective of the Daily Scrum, what is it? What do we expect at the end of the DS?
+
+A: The objective of the DS is that the team forms a plan for the next 24 hours of how they can work together towards the Sprint Goal. At the end of the DS, the team should have a plan on how they will work together towards reaching that Goal.
+
+Refined Answer: The objective of the Daily Scrum is for the developers to be able to inspect their progress towards reaching the Sprint Goal and to be able to adapt the SB accordingly. The outcome could be a refined Sprint Backlog, communication of new impediments, and a shared understanding to reach the Sprint Goal.
+
+My other answer: The purpose of the DS is that developers inspect and adapt their progress towards the SG and adapt their SB accordingly. The outcome could be a refined Sprint Backlog, or new knowledge that is shared between developers. The outcome can be the communication of new impediments, 

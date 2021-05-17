@@ -1,10 +1,10 @@
-Q: What are benefits of testing? What does Scrum say about this? 
+Q: a) What are benefits of testing? b) What does Scrum say about this? 
 
 A: Testing will increase the team's DoD, as the increment will be continuously inspected and adapted through Scrum Events and backlog refinement. Including testing 
 
 Including testing in every Sprint can lead us to build products of higher quality. Benefits of including testing in every Sprint 
 
-Refined Answer: First off, Scrum doesn't say anything about testing. The reason why this is is because Scrum is "purposefully incomplete, only defining the parts required to implement Scrum theory."
+Refined and Final Answer: b) First off, Scrum doesn't say anything about testing. The reason why this is is because Scrum is "purposefully incomplete, only defining the parts required to implement Scrum theory." a) However, benefits of testing include beter use of resources, such as time and money. Another benefit is transparency is increased as teams can identify impediments sooner. Lastly, a benefit of testing is the proper inspection of the increment as it conforms to being Done. (Replace last sentence with "However... time and money).
 
 Furthermore, "various processes, techniques and methods can be employed within the framework. Scrum wraps
 around existing practices or renders them unnecessary." Benefits of testing within the Sprint's developmental activities includes a higher quality of product 

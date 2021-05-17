@@ -1,0 +1,3 @@
+Q: a) What is the process called when making items ready for Sprint Planning? b) What does the team hope to accomplish during this process? c) When is an item READY?
+
+A: The practice used to make items ready for Sprint Planning is Product Backlog Refinement. 
