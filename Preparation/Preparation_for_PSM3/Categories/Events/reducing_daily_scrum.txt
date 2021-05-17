@@ -1,5 +1,8 @@
-Q: Reducing the frequency rate of the Daily Scrum would likely cause
+Q: Reducing the frequency rate of the Daily Scrum would likely cause...
 
 A: Impediments are raised and resolved more slowly which might impact productivity and progress. Opportunities to inspect and adapt the sprint backlog are reduced. Less progress information will be shared causing the sprint plan to become inaccurate and reduces transparency over progress toward the sprint goal.
 
-My answer: The opportunity to innspect and adapt will be greatly reduced. Transparency will be diminished. Also additional meetings besides the ones in the Scrum Events will need to be planned as Scrum Events create regularity and minimize the need for meetings not defined in Scrum. 
+My answer: The opportunity to inspect and adapt will be greatly reduced. Transparency will be diminished. Also additional meetings besides the ones in the Scrum Events will need to be planned as Scrum Events create regularity and minimize the need for meetings not defined in Scrum. 
+
+
+My other answer: Reducing the frequency of the Daily Scrum will reduce transparency as the team will not (unfinished). The Scrum Te. (Unfinished). Inespecting progress towards the Sprint Goal will be greatly reduced, and as a result transparency is diminished.
