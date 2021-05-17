@@ -1,3 +1,13 @@
 Q: a)What are signs that a Scrum Team is self managing? b) What can you ask to make sure that the team is self managing? c) What are traits that the team has?
 
-A: A ST is 
+A: a) Signs that a ST is self managing could be that the team is able to identify impediments and remove them more efficiently. Another sign that the ST is self managing will be that they improve their DoD. Also, the team leading and facilitating Scrum Events is a sign that the team is self managing.
+
+a(revised) I can identify when a ST is self managing when creativeness by the team is shown and when new ideas are being explored. Another sign is when developers select and replan their work throughout the Sprint, collaboratively. Lastly a sign that the team is self managing, is when developers are able to create their Sprint Backlog reflecting the DoD.
+
+b(revised) Questions that can be asked to make sure that ST is self managing, is asking are impediments addressed by the team? Are they communicating when they need external help to address impediments? Are innovative ideas being brought up by team that is improving the product?
+
+they who is facilitating the Scrum Events? If the developers are, this is a sign that the team is self managing. Another question that can be asked is, are potentially shippable increments being released at the end of Sprints? Also, does the team have all of skills to necessary to create potentially shippable increments at the end of every Sprint or are we relying on external help? The answers to these qestions will help the SM determine if the team is self managing.
+
+c) Traits of a self managing teams is that they effectively communicate how they will work towards the Sprint Goal at the Daily Scrum to create a potentially shippable increment at the end of the Sprint, and also, the ST creates their own Sprint Backlog, this SB reflects all the work that is necessary to meet the DoD.
+
+c(revised) Continuous improvement and growth, they are collaborative as a team, they take ownership, trust and respect is shown, team is motivated.
