@@ -1,0 +1,5 @@
+Q: What artifacts are part of Scrum? In what Event can they be inspected?
+
+A: The three artifacts are as follows: Sprint Backlog, Product Backlog, and Definition of Done. During any Event, these artifacts can be inspected. Primarily, the Sprint Planning is inspected during the Daily Scrum, the PB is more bound to be refined during the PB. The DoD can be inspected during.
+
+Refined answer: The Product Backlog is inspected during Sprint Planning and Sprint Review. The Product Increment is inspected during Sprint Planning and Sprint Review. The Sprint Backlog is inspected during Sprint Planning, Daily Scrum, and Sprint Review. --- rewrite using own words -- The Sprint Backlog is inspected during Sprint Planning, Daily Scrum, and Sprint Review. -- END --
