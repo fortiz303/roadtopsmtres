@@ -1,0 +1,4 @@
+Q: a) What is the process called when making items ready for Sprint Planning? b) What does the team hope to accomplish during this process? c) When is an item READY?
+
+A: a) The practice used to make items ready for Sprint Planning is Product Backlog Refinement. Product Backlog Refinement is a process that the team uses to define, and break down PBI into smaller and more precise items. b) At the end of PBR the team aims to create an updated Product Backlog where it is more detailed, emergent, estimated, and prioritized. This will help maximize the flow of value. c) When the item is Ready to be selected, this means that the item must meet clear criteria to be accepted into the upcoming Sprint. Depending on the team, this may mean that the item is independent, negotiable, visible, estimated, small, and testable. 
+ 
