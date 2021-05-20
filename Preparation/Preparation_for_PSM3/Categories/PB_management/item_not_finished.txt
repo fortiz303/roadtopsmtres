@@ -1,0 +1,3 @@
+Q: If the item is not finished what to do?
+
+A: The item is not included in the increment for this sprint. It is re-sized, and put back in the product backlog for the product owner to decide what to do with it.

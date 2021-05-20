@@ -1,0 +1,5 @@
+Q: Why should the PO have a product vision? What relationship do both have (product vision and Sprint Goal)?
+
+A: The PO should have a product vision as it helps in motivating anybody that has a direct relationship with the product. Having this vision will help instilling motivation and inspiration in the ST, stakeholders, and users (incluing, but not limited to). Additionally, having a product vision helps to understand a shared guidance of the direction to move towards. 
+
+With the SG we define a way to inspect progress towards the vision. 

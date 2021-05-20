@@ -1,0 +1,13 @@
+Q: Your company wants you to help them form new teams for an enhancement initiative for an existing product. The product has an extensive architecture and comprised of different components and layers (for example, database, backend, frontend, and user interfaces).
+
+Describe different ways Scrum teams can be structured for this initiative.
+
+What are the advantages and disadvantages of each?
+
+A: Initially, I will bring the members of future teams together and describe what Scrum is and it's rules. Then, I will provide boundaries to the team (producing potentially shippable increments at the end of every Sprint, timeboxing the Events as this will allow for inspecting and adapting).
+
+Afterwards, I will describe different way that we can be structured to undertake the initiative. Those two different approaches would be component, and feature teams. In a feature team, teams are cross functional, meaning they have all the skills necessary within the team, to produce a shippable increment at the end of the Sprint. On the other hand, a component team, specializes in addressing a single layer (back-end, front-end, testing).  
+
+So reasearch how to begin working with teams on a product. Describe feature teams and it's advantages (building business value sooner). Describe it's disadvantages. Descibe component teams (teams will be productive sooner because they are working on their own layer of expertise) and disadvantages (there will be more dependencies between teams as work has to be handed off to the next component team. This will create added risk). 
+
+Advantages of a cross functional team will be that  
