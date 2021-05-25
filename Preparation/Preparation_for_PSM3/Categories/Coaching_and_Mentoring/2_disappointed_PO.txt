@@ -1,0 +1,20 @@
+Q: The PO is disappointed. What does the SM do?
+
+A: The SM can coach the PO into understanding that Scrum is founded on empiricism. With that neing said, experimentation is something that the team does as they inspect and adapt throughout every Sprint. We improve our processes, tools, and the business value as we provide a potentially shippable increment at the end of every Sprint. As we do this , we foucs on the outcome (value created). With these outcomes, we have the opportunity to inspect and adapt.
+
+My answer: Disappointment can set in when the team is discouraged by the results that we have been producing. The team can then put this blame on Scrum. As a SM, I would identify the root of the team's frustration and/or disappointment. Perhaps one of the things that we are doing is running mechanical Scrum. Perhaps the Sprint Reviews have not been used to attain feedback from the stakeholders. Perhaps the Sprint Retrospective has not been used adequately to inspect and adapt the way the team communicates with each other. I would first identify what is dropping the team's morale. After doing this, I would coach the team into understanding that Scrum is founded on empiricism. The Events that we participate in, help us increase this empiricism and 
+
+My other answer: Same as above but add - As a SM my responsibility is to create an environment for the team to flourish. If my team is not doing that, then I have to identify the reason for what it's not. Some questions that I would ask is:
+
+- Is the team self managing or are we fostering an environment of micromanaging in the organization?
+- Is the team actively participating in the Scrum Events? Is innovation being encouraged? Are new ideas coming to light from the ream?
+
+As a SM, I want to influence change and I would use this as a time where I can be an influencer towards the team. If the team is disappointed or frustrated, perhaps I could start to facilitate new games at our Scrum Events. I would bring in candy for the Developers for the Daily Scrum. I would ask the Developers to own the events and start to lead these Events as this will give them an increase of self management.
+
+I would engage the Scrum Team by motivating them. I would facilitate new 
+
+I would talk to the Team and inform them that Scrum is based on empiricism and experimentation. I would reassert them that it's ok to try new tools/processes out. I would coach the Team   
+
+(Research how to motivate team members scrum.org):
+w
+

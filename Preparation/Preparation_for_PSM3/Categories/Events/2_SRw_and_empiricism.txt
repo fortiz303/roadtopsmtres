@@ -1,0 +1,9 @@
+Q: How does the Sprint Review enable empiricism? What happens when team members are not present?
+
+My Answer: The Sprint Review serves to inspect the outcome of the Sprint and determine future adaptations. Transparency is supported by the Sprint Review because the Team as well as the stakeholders can see what has been produced.
+
+Transparency is diminished if members of the ST are missing. Having input from stakeholders increases the Team's understanding of what the stakeholders want. The ST members that are not present lose the opportunity to hear feedback from the Review.
+
+A: Sprint Review is a formal opportunity to inspect and increment and adapt the backlog. During the Sprint Review, transparency is supported as the ST and the stakeholders can see.
+
+ adapt an increment thus enabling empiric
