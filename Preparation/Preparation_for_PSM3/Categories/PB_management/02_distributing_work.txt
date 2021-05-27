@@ -1,0 +1,13 @@
+Q: How should you distribute work among teams from a single PB?
+
+A: First of all, the SM does not distribute work. The SM's role is not to be a project manager but their role is to foster an environment where Scrum Teams turn a selection of work into an increment during the Sprint.
+
+If I had to coach the team into understanding this, I would tell the Team that the teams are self-managed and empowered to work on items of their choice while collaboratinf with the PO. As far as how this sole PB should be managed, the different ST's should self manage their solution into a way that will decrease their dependency between each team. In order to further decrease dependecies, I would also coach the team into forming cross-functional teams, where the team has all the skills necessary to complete the work without external help, instead of component teams, where the Team has to depend on external help to complete the work
+
+Cont'd Answer: Managing dependencies is something that I've had to deal on my teams. The way that we deal with them are by:
+
+- Automating redundant tasks
+
+- Doing tasks the same way if we can't automate said tasks
+
+- As a servant who leads, it will be my responsibility to block stories from other team's to entering my team. However, if this is impossible to do, I will minimize said stories from entering my Team. 
