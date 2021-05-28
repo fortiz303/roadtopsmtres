@@ -1,0 +1,11 @@
+Q: In what ways does the SM attend the Sprint Retrospective?
+
+A: The SM attends the SRt to attend and also participate. During my Sprint Retros, I bring up communication issues that we had as a team. I ask the team what impediments they found along the way and what impediments they are still stuck with. Besides being an active participant (although for more mature teams, I like for the team members doing the work to facilitate it from start to finish), I observe and use my Empiricism to suggest new tools or techniques that could benefit the team.
+
+My other answer: My attendance in the SRt is a passive one if the team is mature in Scrum or still maturing but it is a more active one if I know that the team is new to Scrum or still maturing. I encourage games such as drawing a picture of the developer's representation of the Sprint. I encourage these games to be done in solitude as I don't want the developer's to be swayed or impacted by the opinion of their fellow teammates. The most important thing is that the team is communicating about what impediments they faced, what progree they were proud of, and what they could do differently going forward. When they have the above discussions, the Team goes away with a renewed sense of perspective and opens their mind to new possibilities and perspectives. Creativeness and possibilities flourish.
+
+Answer after researching: The Scrum Master should remain neutral during the Sprint Retrospective. I keep the SRt to a timebox, make sure that it is positive, and productive. During the SRt, I explain the purpose of the meeting, and how people, process, tools, and communication were impacted during the Sprint (benefits, drwabacks, impediments). In my experience, when I work with new teams I facilitate the SRt and ask questions where new opportunities and ideas are explored. When the team is experienced, I become a participant and am actively involved in these discussions. With experienced teams, I can facilitate the Event if requested or needed though I have found succcess in having another team member facilitate the Event.
+
+Answer from others: The Scrum Master facilitates the event as needed or requested. As a SM, I then help the team discuss the people, tools, and processes and what impact they had. I ask open ended questions, such as "how were they effective?" or "how were they detrimental?"
+
+

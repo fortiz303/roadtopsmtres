@@ -1,0 +1,6 @@
+Q: The team will not be able to deliver the planned backlog items. What advice do you give them?
+
+A: First of all, the Sprint is a forecast of what the Team plans on delivering. However, it is not a commitment that every item will be delivered. I would coach the Team member and the Team into understanding that. Additionally, I would have the PO join these discussions to increase transaprency. In the case that the PO deems the work that will not be able to be complated vital, I'd advise the Team with the help of the PO to restructure the PB so that a potentially shippable increment is released at the conclusion of the Sprint. 
+
+I would advice the Team to consult with the PO and let the PO know that this work will not be finished. The work can then go back to the PB if the PO decides that to be appropriate. As a SM, I would encourage the Team to discuss the underlying factors that led to the Team not being able to finished the planned work planned work   
+
